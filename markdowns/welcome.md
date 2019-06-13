@@ -1,21 +1,18 @@
-# Présentation
+# Presentation
 
-Bienvenue dans ce recueil d'exercices pour apprendre Python au lycée.
+Welcome to this collection of exercises to learn Python in high school.
 
-Le but de ce recueil est de regrouper des exercices à travailler en autonomie, en classe ou à la maison, dans le but d'apprendre progressivement le langage Python. Le langage Python fait désormais partie du programme de mathématiques du lycée aussi dans ce recueil, il sera principalement mis l'accent sur des exercices mathématiques utilisant Python et non des exercices purement informatiques (même s'il y en a).
+The purpose of this collection is to group exercises to work independently, in class or at home, in order to gradually learn the Python language. The Python language is now part of the high school mathematics program also in this collection, it will be mainly focused on mathematical exercises using Python and not purely computer exercises (even if there are any).
 
-# Comment ça marche ?
+# How it works ?
 
-Le principe est simple : sur chaque page se trouvent un ou plusieurs exercices à faire avec un énoncé et une présentation des variables qui seront données en entrée ainsi que les sorties qui sont attendues.
+The principle is simple: on each page are one or more exercises to do with a statement and presentation of the variables that will be given as input and the outputs that are expected.
 
-Ensuite on trouve un cadre, comme ci-dessous, dans lequel il faut taper son code. Une partie du code est déjà prérempli et il ne vaut mieux pas  toucher l'en-tête. Pour des raisons pratiques, toutes les fonctions d'entrées s'appellent `mon_programme` (du moins au début) et il ne faut pas changer le nom pour pouvoir valider les tests. Après `mon_programme`, on peut lire entre parenthèses les variables annoncées dans la partie Entrée de l'énoncé de l'exercice.
+Then we find a frame, as below, in which we must type its code. Some of the code is already pre-filled and it is better not to touch the header. For practical reasons, all the input functions are called `my_program` (at least at the beginning) and you do not have to change the name in order to validate the tests. After `my_program`, the variables announced in the Entry section of the exercise statement can be read in parentheses.
 
-Pour résoudre l'exercice, il faut créer un programme qui passera les tests lorsqu'on appuie sur Run.
+To solve the exercise, you have to create a program that will pass the tests when you press Run.
 
-Pour vous entrainer, essayez de rajouter `print("Hello World")` dans le programme suivant puis testez le en appuyant sur Run.
-Il faut bien faire attention à décaler ce que l'on écrit au même niveau que les commentaires (qui commencent par #).
+To practice, try to add `print ('Hello World')` in the following program and test it by pressing Run.
+We must be careful to shift what we write at the same level as the comments (which begin with #).
 
-@[Exemple ]({"stubs": ["Variables_et_fonctions/Prise_en_main_Exo_1.py"], "command": "python3 Variables_et_fonctions/Hello_world_test.py"})
-
-
-
+@ [Example] ({"stubs": ["Variables_and_functions / Take_in_Exo_1.py"], "command": "python3 Variables_and_Functions / Hello_world_test.py"})
